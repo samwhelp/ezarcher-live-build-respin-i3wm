@@ -1,0 +1,27 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/I3
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / I3wm
+##
+
+i3
+
+
+feh
+tint2
+picom
+rofi
